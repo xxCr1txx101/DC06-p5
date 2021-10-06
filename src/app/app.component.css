@@ -1,0 +1,7 @@
+.jumbotron {
+    margin-top: 2rem;
+    height: 250px;
+    width: auto;
+    background-color: rgb(196, 197, 126);
+    border-radius: 10px;
+}
